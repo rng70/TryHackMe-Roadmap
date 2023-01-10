@@ -1,10 +1,14 @@
 # awesome-ctf
 
+---
+
+---
+
 
 
 # TryHackMe Road Map
 
-Hey Guys, here is a list of **500+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away. 
+Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away. 
 
 All the rooms mentioned here are absolute free. ENJOY!!
 
@@ -32,6 +36,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
+* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+
 # Linux Fundamentals:
 
 ---
@@ -50,131 +56,127 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-15. [https://tryhackme.com/room/windowsfundamentals1xbx](https://tryhackme.com/room/windowsfundamentals1xbx)
+* [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
-16. [https://tryhackme.com/room/windowsfundamentals2x0x](https://tryhackme.com/room/windowsfundamentals2x0x)
+* [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
-17. [https://tryhackme.com/room/windowsfundamentals3xzx](https://tryhackme.com/room/windowsfundamentals3xzx)
+* [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 # **Basics Rooms:**
 
 ---
 
-18. [https://tryhackme.com/room/basicpentestingjt](https://tryhackme.com/room/basicpentestingjt)
+* [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-19. [https://tryhackme.com/room/pentestingfundamentals](https://tryhackme.com/room/pentestingfundamentals)
+* [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-20. [https://tryhackme.com/room/principlesofsecurity](https://tryhackme.com/room/principlesofsecurity)
+* [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
-21. [https://tryhackme.com/room/hackermethodology](https://tryhackme.com/room/hackermethodology)
+* [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
-22. [https://tryhackme.com/room/physicalsecurityintro](https://tryhackme.com/room/physicalsecurityintro)
+* [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
-23. [https://tryhackme.com/room/linuxstrengthtraining](https://tryhackme.com/room/linuxstrengthtraining)
+* [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
-24. [https://tryhackme.com/room/catregex](https://tryhackme.com/room/catregex)
+* [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
-25. [https://tryhackme.com/room/openvas](https://tryhackme.com/room/openvas)
+* [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
-26. [https://tryhackme.com/room/btmisp](https://tryhackme.com/room/btmisp)
-
-27. [https://tryhackme.com/room/iso27001](https://tryhackme.com/room/iso27001)
-
-28. [https://tryhackme.com/room/ultratech1](https://tryhackme.com/room/ultratech1)
+* [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 # **Recon:**
 
-30. [https://tryhackme.com/room/passiverecon](https://tryhackme.com/room/passiverecon)
+* [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-31. [https://tryhackme.com/room/activerecon](https://tryhackme.com/room/activerecon)
+* [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-32. [https://tryhackme.com/room/contentdiscovery](https://tryhackme.com/room/contentdiscovery)
+* [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-33. [https://tryhackme.com/room/ohsint](https://tryhackme.com/room/ohsint)
+* [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
-34. [https://tryhackme.com/room/shodan](https://tryhackme.com/room/shodan)
+* [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-35. [https://tryhackme.com/room/googledorking](https://tryhackme.com/room/googledorking)
+* [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
-36. [https://tryhackme.com/room/webosint](https://tryhackme.com/room/webosint)
+* [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
-37. [https://tryhackme.com/room/sakura](https://tryhackme.com/room/sakura)
+* [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
-38. [https://tryhackme.com/room/redteamrecon](https://tryhackme.com/room/redteamrecon)
+* [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
-39. [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+* [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 # **Scripting:**
 
-39. [https://tryhackme.com/room/pythonbasics](https://tryhackme.com/room/pythonbasics)
+* [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
-40. [https://tryhackme.com/room/pythonplayground](https://tryhackme.com/room/pythonplayground) 
+* [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
-41. [https://tryhackme.com/room/intropocscripting](https://tryhackme.com/room/intropocscripting)
+* [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
-42. [https://tryhackme.com/room/peakhill](https://tryhackme.com/room/peakhill)
+* [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
-43. [https://tryhackme.com/room/javascriptbasics](https://tryhackme.com/room/javascriptbasics)
+* [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
-44. [https://tryhackme.com/room/bashscripting](https://tryhackme.com/room/bashscripting)
+* [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
-45. [https://tryhackme.com/room/rust](https://tryhackme.com/room/rust)
+* [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-46. [https://tryhackme.com/room/yara](https://tryhackme.com/room/yara)
+* [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
 # **Networking:**
 
-47. [https://tryhackme.com/room/introtonetworking](https://tryhackme.com/room/introtonetworking)
+* [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-48. [https://tryhackme.com/room/whatisnetworking](https://tryhackme.com/room/whatisnetworking)
+* [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-49. [https://tryhackme.com/room/bpnetworking](https://tryhackme.com/room/bpnetworking)
+* [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-50. [https://tryhackme.com/room/introtolan](https://tryhackme.com/room/introtolan)
+* [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
-51. [https://tryhackme.com/room/httpindetail](https://tryhackme.com/room/httpindetail)
+* [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-52. [https://tryhackme.com/room/dnsindetail](https://tryhackme.com/room/dnsindetail)
+* [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
-53. [https://tryhackme.com/room/rfirmware](https://tryhackme.com/room/rfirmware)
+* [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 # **Tooling:**
 
 ---
 
-54. [https://tryhackme.com/room/metasploitintro](https://tryhackme.com/room/metasploitintro)
+* [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-55. [https://tryhackme.com/room/rpmetasploit](https://tryhackme.com/room/rpmetasploit)
+* [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/rpmetasploit)
 
-56. [https://tryhackme.com/room/rptmux](https://tryhackme.com/room/rptmux)
+* [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
-57. [https://tryhackme.com/room/tmuxremux](https://tryhackme.com/room/tmuxremux)
+* [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-58. [https://tryhackme.com/room/hydra](https://tryhackme.com/room/hydra)
+* [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
-59. [https://tryhackme.com/room/rpsublist3r](https://tryhackme.com/room/rpsublist3r)
+* [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 
-60. [https://tryhackme.com/room/toolboxvim](https://tryhackme.com/room/toolboxvim)
+* [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
-61. [https://tryhackme.com/room/learnowaspzap](https://tryhackme.com/room/learnowaspzap)
+* [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 
-62. [https://tryhackme.com/room/phishinghiddeneye](https://tryhackme.com/room/phishinghiddeneye)
+* [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 
-63. [https://tryhackme.com/room/rustscan](https://tryhackme.com/room/rustscan)
+* [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
-64. [https://tryhackme.com/room/rpnessusredux](https://tryhackme.com/room/rpnessusredux)
+* [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
-65. [https://tryhackme.com/room/nmap01](https://tryhackme.com/room/nmap01)
+* [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
-66. [https://tryhackme.com/room/furthernmap](https://tryhackme.com/room/furthernmap)
+* [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
-67. [https://tryhackme.com/room/tshark](https://tryhackme.com/room/tshark) 
-    
-    * [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
-    
-    * [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+* [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
-68. [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+* [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
+
+* [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+
+* [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
 # **Crypto & Hashes:**
 
