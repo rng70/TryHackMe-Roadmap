@@ -4,8 +4,6 @@
 
 ---
 
-
-
 # TryHackMe Road Map
 
 Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away. 
@@ -140,7 +138,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
-# **Tooling:**
+## Tooling
 
 ---
 
@@ -178,159 +176,162 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
-# **Crypto & Hashes:**
+## Crypto & Hashes
 
 ---
 
-69. [https://tryhackme.com/room/cryptographyfordummies](https://tryhackme.com/room/cryptographyfordummies)
+* [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-70. [https://tryhackme.com/room/crackthehash](https://tryhackme.com/room/crackthehash)
+* [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
-71. [https://tryhackme.com/room/crackthehashlevel2](https://tryhackme.com/room/crackthehashlevel2)
+* [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
-72. [https://tryhackme.com/room/passwordsecurity](https://tryhackme.com/room/passwordsecurity)
+* [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 
-73. [https://tryhackme.com/room/agentsudoctf](https://tryhackme.com/room/agentsudoctf)
+* [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
-74. [https://tryhackme.com/room/bruteit](https://tryhackme.com/room/bruteit)
-
-# **Steganography**
+## Steganography
 
 ---
 
-75. [https://tryhackme.com/room/ccstego](https://tryhackme.com/room/ccstego)
+* [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
 
-76. [https://tryhackme.com/room/cicada3301vol1](https://tryhackme.com/room/cicada3301vol1)
+* [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
 
-77. [https://tryhackme.com/room/musicalstego](https://tryhackme.com/room/musicalstego)
+* [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
 
-78. [https://tryhackme.com/room/madness](https://tryhackme.com/room/madness)
+* [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
-79. [https://tryhackme.com/room/psychobreak](https://tryhackme.com/room/psychobreak)
+* [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 
-80. [https://tryhackme.com/room/unstabletwin](https://tryhackme.com/room/unstabletwin)
+* [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
-# **Web:**
+## Web
 
 ---
 
-81. [https://tryhackme.com/room/webfundamentals](https://tryhackme.com/room/webfundamentals)
+* [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
-82. [https://tryhackme.com/room/webappsec101](https://tryhackme.com/room/webappsec101)
+* [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
 
-83. [https://tryhackme.com/room/vulnerabilities101](https://tryhackme.com/room/vulnerabilities101)
+* [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-84. [https://tryhackme.com/room/walkinganapplication](https://tryhackme.com/room/walkinganapplication)
+* [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
-85. [https://tryhackme.com/room/owasptop10](https://tryhackme.com/room/owasptop10)
+* [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
-86. [https://tryhackme.com/room/owaspjuiceshop](https://tryhackme.com/room/owaspjuiceshop)
+* [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
-87. [https://tryhackme.com/room/rpwebscanning](https://tryhackme.com/room/rpwebscanning)
+* [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
 
-88. [https://tryhackme.com/room/owaspmutillidae](https://tryhackme.com/room/owaspmutillidae)
+* [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
-89. [https://tryhackme.com/room/webgoat](https://tryhackme.com/room/webgoat)
+* [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
 
-90. [https://tryhackme.com/room/dvwa](https://tryhackme.com/room/dvwa)
+* [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
 
-91. [https://tryhackme.com/room/vulnnet1](https://tryhackme.com/room/vulnnet1)
+* [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
 
-92. [https://tryhackme.com/room/juicydetails](https://tryhackme.com/room/juicydetails)
+* [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
-93. [https://tryhackme.com/room/vulnversity](https://tryhackme.com/room/vulnversity)
+* [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
-94. [https://tryhackme.com/room/injection](https://tryhackme.com/room/injection)
+* [TryHackMe | Injection](https://tryhackme.com/room/injection)
 
-95. [https://tryhackme.com/room/lfibasics](https://tryhackme.com/room/lfibasics)
+* [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)
 
-96. [https://tryhackme.com/room/inclusion](https://tryhackme.com/room/inclusion)
+* [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)
 
-97. [https://tryhackme.com/room/sqlilab](https://tryhackme.com/room/sqlilab)
+* [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
-98. [https://tryhackme.com/room/learnssti](https://tryhackme.com/room/learnssti)
+* [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
 
-99. [https://tryhackme.com/room/sqlinjectionlm](https://tryhackme.com/room/sqlinjectionlm)
+* [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-100. [https://tryhackme.com/room/basicpentestingjt](https://tryhackme.com/room/basicpentestingjt)
+* [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-101. [https://tryhackme.com/room/owaspjuiceshop](https://tryhackme.com/room/owaspjuiceshop)
+* [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
-102. [https://tryhackme.com/room/ignite](https://tryhackme.com/room/ignite)
+* [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
-103. [https://tryhackme.com/room/overpass](https://tryhackme.com/room/overpass)
+* [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
-104. [https://tryhackme.com/room/yearoftherabbit](https://tryhackme.com/room/yearoftherabbit)
+* [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
-105. [https://tryhackme.com/room/bsidesgtdevelpy](https://tryhackme.com/room/bsidesgtdevelpy)
+* [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
-106. [https://tryhackme.com/room/jackofalltrades](https://tryhackme.com/room/jackofalltrades)
+* [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
-107. [https://tryhackme.com/room/bolt](https://tryhackme.com/room/bolt)
+* [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
-# **Android:**
+## Android
 
 * [[TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
-# **Forensics:**
+## Forensics
 
 ---
 
-109. [https://tryhackme.com/room/linuxserverforensics](https://tryhackme.com/room/linuxserverforensics)
+* [TryHackMe | Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
 
-110. [https://tryhackme.com/room/forensics](https://tryhackme.com/room/forensics)
+* [TryHackMe | Forensics](https://tryhackme.com/room/forensics)
 
-111. [https://tryhackme.com/room/memoryforensics](https://tryhackme.com/room/memoryforensics)
+* [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)
 
-112. [https://tryhackme.com/room/bpvolatility](https://tryhackme.com/room/bpvolatility)
+* [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
 
-113. [https://tryhackme.com/room/autopsy2ze0](https://tryhackme.com/room/autopsy2ze0)
+* [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
+109. 
 
-# **Wi-Fi Hacking:**
+## Wi-Fi Hacking
 
 * [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
-# **Reverse Engineering:**
+## Reverse Engineering
 
 ---
 
-115. [https://tryhackme.com/room/introtox8664](https://tryhackme.com/room/introtox8664)
+* [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
 
-116. [https://tryhackme.com/room/win64assembly](https://tryhackme.com/room/win64assembly)
+* [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
-117. [https://tryhackme.com/room/reverseengineering](https://tryhackme.com/room/reverseengineering)
+* [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
 
-118. [https://tryhackme.com/room/reverselfiles](https://tryhackme.com/room/reverselfiles)
+* [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
-119. [https://tryhackme.com/room/jvmreverseengineering](https://tryhackme.com/room/jvmreverseengineering)
+* [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
 
-120. [https://tryhackme.com/room/ccradare](https://tryhackme.com/room/ccradare)
+* https://tryhackme.com/room/ccradare
 
-121. [https://tryhackme.com/room/ccghidra2](https://tryhackme.com/room/ccghidra2)
+* [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
 
-122. [https://tryhackme.com/room/aster](https://tryhackme.com/room/aster)
+* [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
 
-123. [https://tryhackme.com/room/classicpasswd](https://tryhackme.com/room/classicpasswd)
+* [TryHackMe | Aster](https://tryhackme.com/room/aster)
 
-124. [https://tryhackme.com/room/reloaded](https://tryhackme.com/room/reloaded)
+* [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
+
+* [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
+  
+  
 
 # **Malware Analysis:**
 
 ---
 
-125. [https://tryhackme.com/room/historyofmalware](https://tryhackme.com/room/historyofmalware)
+* [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
-126. [https://tryhackme.com/room/malmalintroductory](https://tryhackme.com/room/malmalintroductory)
+* [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
-127. [https://tryhackme.com/room/basicmalwarere](https://tryhackme.com/room/basicmalwarere)
+* [TryHackMe | Basic Malware RE](https://tryhackme.com/room/basicmalwarere)
 
-128. [https://tryhackme.com/room/malresearching](https://tryhackme.com/room/malresearching)
+* [TryHackMe | MAL: Researching](https://tryhackme.com/room/malresearching)
 
-129. [https://tryhackme.com/room/mma](https://tryhackme.com/room/mma)
+* [TryHackMe | Mobile Malware Analysis](https://tryhackme.com/room/mma)
 
-130. [https://tryhackme.com/room/c2carnage](https://tryhackme.com/room/c2carnage)
+* [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 
-131. [https://tryhackme.com/room/dunklematerieptxc9](https://tryhackme.com/room/dunklematerieptxc9)
+* [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
 
 # **PrivEsc:**
 
