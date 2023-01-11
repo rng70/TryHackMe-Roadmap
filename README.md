@@ -10,9 +10,28 @@ Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hack
 
 All the rooms mentioned here are absolute free. ENJOY!!
 
+
+
+> **Table of Contents**
+
 </aside>
 
-## Intro Rooms [10 rooms]:
+| Name of Topic                                 | Number of Rooms | Number of Completed Rooms |
+| --------------------------------------------- |:---------------:| ------------------------- |
+| [Introductory Rooms](#intro-rooms)            | 10              |                           |
+| [Linux Fundamentals](#linux-fundamentals)     | 5               |                           |
+| [Windows Fundamentals](#windows-fundamentals) | 3               |                           |
+| [Basic Rooms](#basic-rooms)                   | 9               |                           |
+| [Reconnaissance](#recon)                      | 10              |                           |
+| [Scripting](#scripting)                       | 8               |                           |
+| [Networking](#networking)                     | 7               |                           |
+| [Tooling](#tooling)                           | 17              |                           |
+| [Crypto & Hashes](#crypto-&-hashes)           |                 |                           |
+|                                               |                 |                           |
+
+
+
+## Intro Rooms
 
 ---
 
@@ -36,7 +55,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
-# Linux Fundamentals:
+## Linux Fundamentals
 
 ---
 
@@ -50,7 +69,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
-# Windows Fundamentals:
+## Windows Fundamentals
 
 ---
 
@@ -60,7 +79,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
-# **Basics Rooms:**
+## Basics Rooms
 
 ---
 
@@ -82,7 +101,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
-# **Recon:**
+## Recon
+
+---
 
 * [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
@@ -104,7 +125,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
-# **Scripting:**
+## Scripting
+
+---
 
 * [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
@@ -122,7 +145,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
-# **Networking:**
+## Networking
+
+---
 
 * [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
@@ -281,7 +306,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
 
 * [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
-109. 
 
 ## Wi-Fi Hacking
 
