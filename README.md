@@ -26,8 +26,22 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | [Scripting](#scripting)                       | 8               |                           |
 | [Networking](#networking)                     | 7               |                           |
 | [Tooling](#tooling)                           | 17              |                           |
-| [Crypto & Hashes](#crypto-&-hashes)           |                 |                           |
+| [Crypto & Hashes](#crypto--hashes)            | 5               |                           |
+| [Steganography](#steganography)               | 6               |                           |
+| [Web](#web)                                   | 27              |                           |
+| [Android](#android)                           | 1               |                           |
+| [Forensics](#forensics)                       | 5               |                           |
+| [Wifi Hacking](#wi-fi-hacking)                | 1               |                           |
+| [Reverse Engineering](#reverse-engineering)   | 11              |                           |
+| [Malware Analysis](#malware-analysis)         | 7               |                           |
+| [Privilege Escalation](#prevesc)              | 13              |                           |
 |                                               |                 |                           |
+|                                               |                 |                           |
+|                                               |                 |                           |
+|                                               |                 |                           |
+|                                               |                 |                           |
+|                                               |                 |                           |
+| **Total Rooms:**                              |                 |                           |
 
 
 
@@ -291,6 +305,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ## Android
 
+---
+
 * [[TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
@@ -308,6 +324,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
 ## Wi-Fi Hacking
+
+---
 
 * [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
@@ -339,7 +357,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
   
   
 
-# **Malware Analysis:**
+## Malware Analysis
 
 ---
 
@@ -357,35 +375,35 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Dunkle Materie](https://tryhackme.com/room/dunklematerieptxc9)
 
-# **PrivEsc:**
+## PrivEsc
 
 ---
 
-132. [https://tryhackme.com/room/linprivesc](https://tryhackme.com/room/linprivesc)
+* [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
 
-133. [https://tryhackme.com/room/linuxprivesc](https://tryhackme.com/room/linuxprivesc)
+* [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
 
-134. [https://tryhackme.com/room/linuxprivescarena](https://tryhackme.com/room/linuxprivescarena)
+* [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
 
-135. [https://tryhackme.com/room/windows10privesc](https://tryhackme.com/room/windows10privesc)
+* [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 
-136. [https://tryhackme.com/room/windowsprivescarena](https://tryhackme.com/room/windowsprivescarena)
+* [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
-137. [https://tryhackme.com/room/linuxagency](https://tryhackme.com/room/linuxagency)
+* [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 
-138. [https://tryhackme.com/room/sudovulnsbypass](https://tryhackme.com/room/sudovulnsbypass)
+* [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 
-139. [https://tryhackme.com/room/sudovulnsbof](https://tryhackme.com/room/sudovulnsbof)
+* [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 
-140. [https://tryhackme.com/room/blaster](https://tryhackme.com/room/blaster)
+* [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
-141. [https://tryhackme.com/room/ignite](https://tryhackme.com/room/ignite)
+* [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
-142. [https://tryhackme.com/room/kenobi](https://tryhackme.com/room/kenobi)
+* [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
-143. [https://tryhackme.com/room/c4ptur3th3fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+* [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
-144. [https://tryhackme.com/room/picklerick](https://tryhackme.com/room/picklerick)
+* [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 # **Windows:**
 
