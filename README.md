@@ -10,8 +10,6 @@ Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hack
 
 All the rooms mentioned here are absolute free. ENJOY!!
 
-
-
 > **Table of Contents**
 
 </aside>
@@ -42,8 +40,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 |                                               |                 |                           |
 |                                               |                 |                           |
 | **Total Rooms:**                              |                 |                           |
-
-
 
 ## Intro Rooms
 
@@ -307,7 +303,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-* [[TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
+* [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
 
@@ -354,8 +350,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 * [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
 
 * [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
-  
-  
 
 ## Malware Analysis
 
@@ -405,500 +399,504 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-# **Windows:**
+## Windows
 
 ---
 
-145. [https://tryhackme.com/room/investigatingwindows](https://tryhackme.com/room/investigatingwindows)
+* [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
 
-146. [https://tryhackme.com/room/investigatingwindows2](https://tryhackme.com/room/investigatingwindows2)
+* [TryHackMe | Investigating Windows 2.0](https://tryhackme.com/room/investigatingwindows2)
 
-147. [https://tryhackme.com/room/investigatingwindows3](https://tryhackme.com/room/investigatingwindows3)
+* [TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)
 
-148. [https://tryhackme.com/room/blueprint](https://tryhackme.com/room/blueprint)
+* [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
 
-149. [https://tryhackme.com/room/vulnnetactive](https://tryhackme.com/room/vulnnetactive)
+* [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
 
-150. [https://tryhackme.com/room/anthem](https://tryhackme.com/room/anthem)
+* [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 
-151. [https://tryhackme.com/room/blue](https://tryhackme.com/room/blue)
+* [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
-# **Active Directory:**
-
----
-
-152. [https://tryhackme.com/room/attacktivedirectory](https://tryhackme.com/room/attacktivedirectory)
-
-153. [https://tryhackme.com/room/postexploit](https://tryhackme.com/room/postexploit)
-
-154. [https://tryhackme.com/room/ustoun](https://tryhackme.com/room/ustoun)
-
-155. [https://tryhackme.com/room/enterprise](https://tryhackme.com/room/enterprise)
-
-156. [https://tryhackme.com/room/raz0rblack](https://tryhackme.com/room/raz0rblack)
-
-# **PCAP Analysis**
+## Active Directory
 
 ---
 
-157. [https://tryhackme.com/room/h4cked](https://tryhackme.com/room/h4cked)
+* [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
-158. [https://tryhackme.com/room/c2carnage](https://tryhackme.com/room/c2carnage)
+* [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
 
-159. [https://tryhackme.com/room/cct2019](https://tryhackme.com/room/cct2019)
+* [TryHackMe | USTOUN](https://tryhackme.com/room/ustoun)
 
-160. [https://tryhackme.com/room/overpass2hacked](https://tryhackme.com/room/overpass2hacked)
+* [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
 
-# **BufferOverflow:**
+* [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
----
-
-161. [https://tryhackme.com/room/bufferoverflowprep](https://tryhackme.com/room/bufferoverflowprep)
-
-162. [https://tryhackme.com/room/gatekeeper](https://tryhackme.com/room/gatekeeper)
-
-163. [https://tryhackme.com/room/chronicle](https://tryhackme.com/room/chronicle)
-
-164. [https://tryhackme.com/room/introtopwntools](https://tryhackme.com/room/introtopwntools)
-
-# **Misc:**
+## PCAP Analysis
 
 ---
 
-165. [https://tryhackme.com/room/django](https://tryhackme.com/room/django)
+* [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
 
-166. [https://tryhackme.com/room/githappens](https://tryhackme.com/room/githappens)
+* [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 
-167. [https://tryhackme.com/room/meltdownexplained](https://tryhackme.com/room/meltdownexplained)
+* [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
 
-168. [https://tryhackme.com/room/bpsplunk](https://tryhackme.com/room/bpsplunk)
+* [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
-169. [https://tryhackme.com/room/linuxbackdoors](https://tryhackme.com/room/linuxbackdoors)
-
-170. [https://tryhackme.com/room/jupyter101](https://tryhackme.com/room/jupyter101)
-
-171. [https://tryhackme.com/room/geolocatingimages](https://tryhackme.com/room/geolocatingimages)
-
-172. [https://tryhackme.com/room/torforbeginners](https://tryhackme.com/room/torforbeginners)
-
-173. [https://tryhackme.com/room/tomghost](https://tryhackme.com/room/tomghost)
-
-174. [https://tryhackme.com/room/dllhijacking](https://tryhackme.com/room/dllhijacking)
-
-175. [https://tryhackme.com/room/iotintro](https://tryhackme.com/room/iotintro)
-
-176. [https://tryhackme.com/room/attackingics1](https://tryhackme.com/room/attackingics1)
-
-177. [https://tryhackme.com/room/attackingics2](https://tryhackme.com/room/attackingics2)
-
-178. [https://tryhackme.com/room/printerhacking101](https://tryhackme.com/room/printerhacking101)
-
-179. [https://tryhackme.com/room/dnsmanipulation](https://tryhackme.com/room/dnsmanipulation)
-
-180. [https://tryhackme.com/room/flask](https://tryhackme.com/room/flask)
-
-181. [https://tryhackme.com/room/mitre](https://tryhackme.com/room/mitre)
-
-182. [https://tryhackme.com/room/magician](https://tryhackme.com/room/magician)
-
-183. [https://tryhackme.com/room/jpgchat](https://tryhackme.com/room/jpgchat)
-
-184. [https://tryhackme.com/room/sudovulnssamedit](https://tryhackme.com/room/sudovulnssamedit)
-
-185. [https://tryhackme.com/room/cve202141773](https://tryhackme.com/room/cve202141773)
-
-186. [https://tryhackme.com/room/binaryheaven](https://tryhackme.com/room/binaryheaven)
-
-187. [https://tryhackme.com/room/gitandcrumpets](https://tryhackme.com/room/gitandcrumpets)
-
-188. [https://tryhackme.com/room/polkit](https://tryhackme.com/room/polkit)
-
-189. [https://tryhackme.com/room/hipflask](https://tryhackme.com/room/hipflask)
-
-190. [https://tryhackme.com/room/bypassdisablefunctions](https://tryhackme.com/room/bypassdisablefunctions)
-
-191. [https://tryhackme.com/room/wordpresscve202129447](https://tryhackme.com/room/wordpresscve202129447)
-
-192. [https://tryhackme.com/room/linuxfunctionhooking](https://tryhackme.com/room/linuxfunctionhooking)
-
-193. [https://tryhackme.com/room/revilcorp](https://tryhackme.com/room/revilcorp)
-
-194. [https://tryhackme.com/room/sudovulnsbof](https://tryhackme.com/room/sudovulnsbof)
-
-195. [https://tryhackme.com/room/sudovulnsbypass](https://tryhackme.com/room/sudovulnsbypass)
-
-196. [https://tryhackme.com/room/solar](https://tryhackme.com/room/solar)
-
-197. [https://tryhackme.com/room/contiransomwarehgh](https://tryhackme.com/room/contiransomwarehgh)
-
-198. [https://tryhackme.com/room/dirtypipe](https://tryhackme.com/room/dirtypipe)
-
-# **Easy CTF:**
+## BufferOverflow
 
 ---
 
-199. [https://tryhackme.com/room/gamingserver](https://tryhackme.com/room/gamingserver)
+* [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 
-200. [https://tryhackme.com/room/psychobreak](https://tryhackme.com/room/psychobreak)
+* [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
 
-201. [https://tryhackme.com/room/cowboyhacker](https://tryhackme.com/room/cowboyhacker)
+* [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
 
-202. [https://tryhackme.com/room/ctf](https://tryhackme.com/room/ctf)
+* [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
-203. [https://tryhackme.com/room/rrootme](https://tryhackme.com/room/rrootme)
-
-204. [https://tryhackme.com/room/attackerkb](https://tryhackme.com/room/attackerkb)
-
-205. [https://tryhackme.com/room/picklerick](https://tryhackme.com/room/picklerick)
-
-206. [https://tryhackme.com/room/c4ptur3th3fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
-
-207. [https://tryhackme.com/room/bsidesgtlibrary](https://tryhackme.com/room/bsidesgtlibrary)
-
-208. [https://tryhackme.com/room/bsidesgtthompson](https://tryhackme.com/room/bsidesgtthompson)
-
-209. [https://tryhackme.com/room/easyctf](https://tryhackme.com/room/easyctf)
-
-210. [https://tryhackme.com/room/lazyadmin](https://tryhackme.com/room/lazyadmin)
-
-211. [https://tryhackme.com/room/bsidesgtanonforce](https://tryhackme.com/room/bsidesgtanonforce)
-
-212. [https://tryhackme.com/room/ignite](https://tryhackme.com/room/ignite)
-
-213. [https://tryhackme.com/room/wgelctf](https://tryhackme.com/room/wgelctf)
-
-214. [https://tryhackme.com/room/kenobi](https://tryhackme.com/room/kenobi)
-
-215. [https://tryhackme.com/room/bsidesgtdav](https://tryhackme.com/room/bsidesgtdav)
-
-216. [https://tryhackme.com/room/ninjaskills](https://tryhackme.com/room/ninjaskills)
-
-217. [https://tryhackme.com/room/ice](https://tryhackme.com/room/ice)
-
-218. [https://tryhackme.com/room/lianyu](https://tryhackme.com/room/lianyu)
-
-219. [https://tryhackme.com/room/thecodcaper](https://tryhackme.com/room/thecodcaper)
-
-220. [https://tryhackme.com/room/blaster](https://tryhackme.com/room/blaster)
-
-221. [https://tryhackme.com/room/encryptioncrypto101](https://tryhackme.com/room/encryptioncrypto101)
-
-222. [https://tryhackme.com/room/brooklynninenine](https://tryhackme.com/room/brooklynninenine)
-
-223. [https://tryhackme.com/room/yearoftherabbit](https://tryhackme.com/room/yearoftherabbit)
-
-224. [https://tryhackme.com/room/jackofalltrades](https://tryhackme.com/room/jackofalltrades)
-
-225. [https://tryhackme.com/room/madness](https://tryhackme.com/room/madness)
-
-226. [https://tryhackme.com/room/kothfoodctf](https://tryhackme.com/room/kothfoodctf)
-
-227. [https://tryhackme.com/room/easypeasyctf](https://tryhackme.com/room/easypeasyctf)
-
-228. [https://tryhackme.com/room/tonythetiger](https://tryhackme.com/room/tonythetiger)
-
-229. [https://tryhackme.com/room/ctfcollectionvol1](https://tryhackme.com/room/ctfcollectionvol1)
-
-230. [https://tryhackme.com/room/smaggrotto](https://tryhackme.com/room/smaggrotto)
-
-231. [https://tryhackme.com/room/couch](https://tryhackme.com/room/couch)
-
-232. [https://tryhackme.com/room/source](https://tryhackme.com/room/source)
-
-233. [https://tryhackme.com/room/overpass](https://tryhackme.com/room/overpass)
-
-234. [https://tryhackme.com/room/pokemon](https://tryhackme.com/room/pokemon)
-
-235. [https://tryhackme.com/room/bolt](https://tryhackme.com/room/bolt)
-
-236. [https://tryhackme.com/room/overpass2hacked](https://tryhackme.com/room/overpass2hacked)
-
-237. [https://tryhackme.com/room/kiba](https://tryhackme.com/room/kiba)
-
-238. [https://tryhackme.com/room/poster](https://tryhackme.com/room/poster)
-
-239. [https://tryhackme.com/room/chocolatefactory](https://tryhackme.com/room/chocolatefactory)
-
-240. [https://tryhackme.com/room/startup](https://tryhackme.com/room/startup)
-
-241. [https://tryhackme.com/room/chillhack](https://tryhackme.com/room/chillhack)
-
-242. [https://tryhackme.com/room/colddboxeasy](https://tryhackme.com/room/colddboxeasy)
-
-243. [https://tryhackme.com/room/glitch](https://tryhackme.com/room/glitch)
-
-244. [https://tryhackme.com/room/allinonemj](https://tryhackme.com/room/allinonemj)
-
-245. [https://tryhackme.com/room/archangel](https://tryhackme.com/room/archangel)
-
-246. [https://tryhackme.com/room/cyborgt8](https://tryhackme.com/room/cyborgt8)
-
-247. [https://tryhackme.com/room/lunizzctfnd](https://tryhackme.com/room/lunizzctfnd)
-
-248. [https://tryhackme.com/room/badbyte](https://tryhackme.com/room/badbyte)
-
-249. [https://tryhackme.com/room/teamcw](https://tryhackme.com/room/teamcw)
-
-250. [https://tryhackme.com/room/vulnnetnode](https://tryhackme.com/room/vulnnetnode)
-
-251. [https://tryhackme.com/room/vulnnetinternal](https://tryhackme.com/room/vulnnetinternal)
-
-252. [https://tryhackme.com/room/atlas](https://tryhackme.com/room/atlas)
-
-253. [https://tryhackme.com/room/vulnnetroasted](https://tryhackme.com/room/vulnnetroasted)
-
-254. [https://tryhackme.com/room/catpictures](https://tryhackme.com/room/catpictures)
-
-255. [https://tryhackme.com/room/mustacchio](https://tryhackme.com/room/mustacchio)
-
-256. [https://tryhackme.com/room/overlayfs](https://tryhackme.com/room/overlayfs)
-
-# **Medium CTF:**
+## Easy CTF
 
 ---
 
-257. [https://tryhackme.com/room/mrrobot](https://tryhackme.com/room/mrrobot)
+* [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
 
-258. [https://tryhackme.com/room/goldeneye](https://tryhackme.com/room/goldeneye)
+* [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 
-259. [https://tryhackme.com/room/stuxctf](https://tryhackme.com/room/stuxctf)
+* [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 
-260. [https://tryhackme.com/room/boilerctf2](https://tryhackme.com/room/boilerctf2)
+* [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 
-261. [https://tryhackme.com/room/jokerctf](https://tryhackme.com/room/jokerctf)
+* [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
 
-262. [https://tryhackme.com/room/biohazard](https://tryhackme.com/room/biohazard)
+* [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
-263. [https://tryhackme.com/room/breakit](https://tryhackme.com/room/breakit)
+* [TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
 
-264. [https://tryhackme.com/room/willow](https://tryhackme.com/room/willow)
+* [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-265. [https://tryhackme.com/room/marketplace](https://tryhackme.com/room/marketplace)
+* [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
-266. [https://tryhackme.com/room/nax](https://tryhackme.com/room/nax)
+* [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
-267. [https://tryhackme.com/room/mindgames](https://tryhackme.com/room/mindgames)
+* [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
-268. [https://tryhackme.com/room/anonymous](https://tryhackme.com/room/anonymous)
+* [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
 
-269. [https://tryhackme.com/room/blog](https://tryhackme.com/room/blog)
+* [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
-270. [https://tryhackme.com/room/wonderland](https://tryhackme.com/room/wonderland)
+* [TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
 
-271. [https://tryhackme.com/room/0day](https://tryhackme.com/room/0day)
+* [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
-272. [https://tryhackme.com/room/bsidesgtdevelpy](https://tryhackme.com/room/bsidesgtdevelpy)
+* [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
 
-273. [https://tryhackme.com/room/ctfcollectionvol2](https://tryhackme.com/room/ctfcollectionvol2)
+* [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
-274. [https://tryhackme.com/room/cmess](https://tryhackme.com/room/cmess)
+* [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
-275. [https://tryhackme.com/room/dejavu](https://tryhackme.com/room/dejavu)
+* [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
-276. [https://tryhackme.com/room/hackernote](https://tryhackme.com/room/hackernote)
+* [TryHackMe | Ice](https://tryhackme.com/room/ice)
 
-277. [https://tryhackme.com/room/dogcat](https://tryhackme.com/room/dogcat)
+* [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
-278. [https://tryhackme.com/room/convertmyvideo](https://tryhackme.com/room/convertmyvideo)
+* [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
-279. [https://tryhackme.com/room/kothhackers](https://tryhackme.com/room/kothhackers)
+* [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
-280. [https://tryhackme.com/room/revenge](https://tryhackme.com/room/revenge)
+* [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
 
-281. [https://tryhackme.com/room/harder](https://tryhackme.com/room/harder)
+* [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
-282. [https://tryhackme.com/room/haskhell](https://tryhackme.com/room/haskhell)
+* [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
-283. [https://tryhackme.com/room/undiscoveredup](https://tryhackme.com/room/undiscoveredup)
+* [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
-284. [https://tryhackme.com/room/breakoutthecage1](https://tryhackme.com/room/breakoutthecage1)
+* [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
-285. [https://tryhackme.com/room/theimpossiblechallenge](https://tryhackme.com/room/theimpossiblechallenge)
+* [TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
-286. [https://tryhackme.com/room/lookingglass](https://tryhackme.com/room/lookingglass)
+* [TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
 
-287. [https://tryhackme.com/room/recovery](https://tryhackme.com/room/recovery)
+* [TryHackMe | Tony the Tiger](https://tryhackme.com/room/tonythetiger)
 
-288. [https://tryhackme.com/room/relevant](https://tryhackme.com/room/relevant)
+* [TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
 
-289. [https://tryhackme.com/room/ghizerctf](https://tryhackme.com/room/ghizerctf)
+* [TryHackMe | Smag Grotto](https://tryhackme.com/room/smaggrotto)
 
-290. [https://tryhackme.com/room/mnemonic](https://tryhackme.com/room/mnemonic)
+* [TryHackMe | Couch](https://tryhackme.com/room/couch)
 
-291. [https://tryhackme.com/room/wwbuddy](https://tryhackme.com/room/wwbuddy)
+* [TryHackMe | Source](https://tryhackme.com/room/source)
 
-292. [https://tryhackme.com/room/theblobblog](https://tryhackme.com/room/theblobblog)
+* [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
-293. [https://tryhackme.com/room/cooctusadventures](https://tryhackme.com/room/cooctusadventures)
+* [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
 
-294. [https://tryhackme.com/room/ctfonepiece65](https://tryhackme.com/room/ctfonepiece65)
+* [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
-295. [https://tryhackme.com/room/toc2](https://tryhackme.com/room/toc2)
+* [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
-296. [https://tryhackme.com/room/nerdherd](https://tryhackme.com/room/nerdherd)
+* [TryHackMe | kiba](https://tryhackme.com/room/kiba)
 
-297. [https://tryhackme.com/room/kuberneteschalltdi2020](https://tryhackme.com/room/kuberneteschalltdi2020)
+* [TryHackMe | Poster](https://tryhackme.com/room/poster)
 
-298. [https://tryhackme.com/room/theserverfromhell](https://tryhackme.com/room/theserverfromhell)
+* [TryHackMe | Chocolate Factory](https://tryhackme.com/room/chocolatefactory)
 
-299. [https://tryhackme.com/room/jacobtheboss](https://tryhackme.com/room/jacobtheboss)
+* [TryHackMe | Startup](https://tryhackme.com/room/startup)
 
-300. [https://tryhackme.com/room/unbakedpie](https://tryhackme.com/room/unbakedpie)
+* [TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
 
-301. [https://tryhackme.com/room/bookstoreoc](https://tryhackme.com/room/bookstoreoc)
+* [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
-302. [https://tryhackme.com/room/overpass3hosting](https://tryhackme.com/room/overpass3hosting)
+* [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
 
-303. [https://tryhackme.com/room/battery](https://tryhackme.com/room/battery)
+* [TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
 
-304. [https://tryhackme.com/room/madeyescastle](https://tryhackme.com/room/madeyescastle)
+* [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
 
-305. [https://tryhackme.com/room/enpass](https://tryhackme.com/room/enpass)
+* [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
-306. [https://tryhackme.com/room/sustah](https://tryhackme.com/room/sustah)
+* [TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
 
-307. [https://tryhackme.com/room/somesint](https://tryhackme.com/room/somesint)
+* [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
 
-308. [https://tryhackme.com/room/tokyoghoul666](https://tryhackme.com/room/tokyoghoul666)
+* [TryHackMe | Team](https://tryhackme.com/room/teamcw)
 
-309. [https://tryhackme.com/room/watcher](https://tryhackme.com/room/watcher)
+* [TryHackMe | VulnNet: Node](https://tryhackme.com/room/vulnnetnode)
 
-310. [https://tryhackme.com/room/broker](https://tryhackme.com/room/broker)
+* [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
 
-311. [https://tryhackme.com/room/inferno](https://tryhackme.com/room/inferno)
+* [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
 
-312. [https://tryhackme.com/room/vulnnetdotpy](https://tryhackme.com/room/vulnnetdotpy)
+* [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 
-313. [https://tryhackme.com/room/wekorra](https://tryhackme.com/room/wekorra)
+* [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
 
-314. [https://tryhackme.com/room/pylonzf](https://tryhackme.com/room/pylonzf)
+* [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
-315. [https://tryhackme.com/room/thegreatescape](https://tryhackme.com/room/thegreatescape)
-
-316. [https://tryhackme.com/room/safezone](https://tryhackme.com/room/safezone)
-
-317. [https://tryhackme.com/room/nahamstore](https://tryhackme.com/room/nahamstore)
-
-318. [https://tryhackme.com/room/sweettoothinc](https://tryhackme.com/room/sweettoothinc)
-
-319. [https://tryhackme.com/room/cmspit](https://tryhackme.com/room/cmspit)
-
-320. [https://tryhackme.com/room/superspamr](https://tryhackme.com/room/superspamr)
-
-321. [https://tryhackme.com/room/thatstheticket](https://tryhackme.com/room/thatstheticket)
-
-322. [https://tryhackme.com/room/debug](https://tryhackme.com/room/debug)
-
-323. [https://tryhackme.com/room/redstoneonecarat](https://tryhackme.com/room/redstoneonecarat)
-
-324. [https://tryhackme.com/room/coldvvars](https://tryhackme.com/room/coldvvars)
-
-325. [https://tryhackme.com/room/metamorphosis](https://tryhackme.com/room/metamorphosis)
-
-326. [https://tryhackme.com/room/sqhell](https://tryhackme.com/room/sqhell)
-
-327. [https://tryhackme.com/room/fortress](https://tryhackme.com/room/fortress)
-
-328. [https://tryhackme.com/room/cybercrafted](https://tryhackme.com/room/cybercrafted)
-
-329. [https://tryhackme.com/room/road](https://tryhackme.com/room/road)
-
-# **Hard CTF:**
+## Medium CTF
 
 ---
 
-330. [https://tryhackme.com/room/motunui](https://tryhackme.com/room/motunui)
+- [TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
-331. [https://tryhackme.com/room/spring](https://tryhackme.com/room/spring)
+- [TryHackMe | GoldenEye](https://tryhackme.com/room/goldeneye)
 
-332. [https://tryhackme.com/room/brainpan](https://tryhackme.com/room/brainpan)
+- [TryHackMe | StuxCTF](https://tryhackme.com/room/stuxctf)
 
-333. [https://tryhackme.com/room/borderlands](https://tryhackme.com/room/borderlands)
+- [TryHackMe | Boiler CTF](https://tryhackme.com/room/boilerctf2)
 
-334. [https://tryhackme.com/room/hc0nchristmasctf](https://tryhackme.com/room/hc0nchristmasctf)
+- [TryHackMe | HA Joker CTF](https://tryhackme.com/room/jokerctf)
 
-335. [https://tryhackme.com/room/dailybugle](https://tryhackme.com/room/dailybugle)
+- [TryHackMe | Biohazard](https://tryhackme.com/room/biohazard)
 
-336. [https://tryhackme.com/room/retro](https://tryhackme.com/room/retro)
+- [TryHackMe | Break it](https://tryhackme.com/room/breakit)
 
-337. [https://tryhackme.com/room/jeff](https://tryhackme.com/room/jeff)
+- [TryHackMe | Willow](https://tryhackme.com/room/willow)
 
-338. [https://tryhackme.com/room/racetrackbank](https://tryhackme.com/room/racetrackbank)
+- [TryHackMe | The Marketplace](https://tryhackme.com/room/marketplace)
 
-339. [https://tryhackme.com/room/davesblog](https://tryhackme.com/room/davesblog)
+- [TryHackMe | Nax](https://tryhackme.com/room/nax)
 
-340. [https://tryhackme.com/room/cherryblossom](https://tryhackme.com/room/cherryblossom)
+- [TryHackMe | Mindgames](https://tryhackme.com/room/mindgames)
 
-341. [https://tryhackme.com/room/cct2019](https://tryhackme.com/room/cct2019)
+- [TryHackMe | Anonymous](https://tryhackme.com/room/anonymous)
 
-342. [https://tryhackme.com/room/ironcorp](https://tryhackme.com/room/ironcorp)
+- [TryHackMe | Blog](https://tryhackme.com/room/blog)
 
-343. [https://tryhackme.com/room/carpediem1](https://tryhackme.com/room/carpediem1)
+- [TryHackMe | Wonderland](https://tryhackme.com/room/wonderland)
 
-344. [https://tryhackme.com/room/ra](https://tryhackme.com/room/ra)
+- [TryHackMe | 0day](https://tryhackme.com/room/0day)
 
-345. [https://tryhackme.com/room/yotf](https://tryhackme.com/room/yotf)
+- [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
-346. [https://tryhackme.com/room/forbusinessreasons](https://tryhackme.com/room/forbusinessreasons)
+- [TryHackMe | CTF collection Vol.2](https://tryhackme.com/room/ctfcollectionvol2)
 
-347. [https://tryhackme.com/room/anonymousplayground](https://tryhackme.com/room/anonymousplayground)
+- [TryHackMe | CMesS](https://tryhackme.com/room/cmess)
 
-348. [https://tryhackme.com/room/misguidedghosts](https://tryhackme.com/room/misguidedghosts)
+- [TryHackMe | Deja Vu](https://tryhackme.com/room/dejavu)
 
-349. [https://tryhackme.com/room/theseus](https://tryhackme.com/room/theseus)
+- [TryHackMe | hackerNote](https://tryhackme.com/room/hackernote)
 
-350. [https://tryhackme.com/room/internal](https://tryhackme.com/room/internal)
+- [TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
 
-351. [https://tryhackme.com/room/yearofthedog](https://tryhackme.com/room/yearofthedog)
+- [TryHackMe | ConvertMyVideo](https://tryhackme.com/room/convertmyvideo)
 
-352. [https://tryhackme.com/room/inacave](https://tryhackme.com/room/inacave)
+- [TryHackMe | KoTH Hackers](https://tryhackme.com/room/kothhackers)
 
-353. [https://tryhackme.com/room/yearoftheowl](https://tryhackme.com/room/yearoftheowl)
+- [TryHackMe | Revenge](https://tryhackme.com/room/revenge)
 
-354. [https://tryhackme.com/room/yearofthepig](https://tryhackme.com/room/yearofthepig)
+- [TryHackMe | harder](https://tryhackme.com/room/harder)
 
-355. [https://tryhackme.com/room/envizon](https://tryhackme.com/room/envizon)
+- [TryHackMe | HaskHell](https://tryhackme.com/room/haskhell)
 
-356. [https://tryhackme.com/room/gamebuzz](https://tryhackme.com/room/gamebuzz)
+- [TryHackMe | Undiscovered](https://tryhackme.com/room/undiscoveredup)
 
-357. [https://tryhackme.com/room/fusioncorp](https://tryhackme.com/room/fusioncorp)
+- [TryHackMe | Break Out The Cage](https://tryhackme.com/room/breakoutthecage1)
 
-358. [https://tryhackme.com/room/crocccrew](https://tryhackme.com/room/crocccrew)
+- [TryHackMe | The Impossible Challenge](https://tryhackme.com/room/theimpossiblechallenge)
 
-359. [https://tryhackme.com/room/uranium](https://tryhackme.com/room/uranium)
+- [TryHackMe | Looking Glass](https://tryhackme.com/room/lookingglass)
 
-360. [https://tryhackme.com/room/yearofthejellyfish](https://tryhackme.com/room/yearofthejellyfish)
+- [TryHackMe | Recovery](https://tryhackme.com/room/recovery)
 
-361. [https://tryhackme.com/room/rocket](https://tryhackme.com/room/rocket)
+- [TryHackMe | Relevant](https://tryhackme.com/room/relevant)
 
-362. [https://tryhackme.com/room/squidgameroom](https://tryhackme.com/room/squidgameroom)
+- [TryHackMe | Ghizer](https://tryhackme.com/room/ghizerctf)
 
-363. [https://tryhackme.com/room/enterprize](https://tryhackme.com/room/enterprize)
+- [TryHackMe | Mnemonic](https://tryhackme.com/room/mnemonic)
 
-364. [https://tryhackme.com/room/adana](https://tryhackme.com/room/adana)
+- [TryHackMe | WWBuddy](https://tryhackme.com/room/wwbuddy)
 
-365. [https://tryhackme.com/room/vulnnetdotjar](https://tryhackme.com/room/vulnnetdotjar)
+- [TryHackMe | The Blob Blog](https://tryhackme.com/room/theblobblog)
 
-366. [https://tryhackme.com/room/m4tr1xexitdenied](https://tryhackme.com/room/m4tr1xexitdenied)
+- [TryHackMe | Cooctus Stories](https://tryhackme.com/room/cooctusadventures)
 
-367. [https://tryhackme.com/room/shaker](https://tryhackme.com/room/shaker)
+- [TryHackMe | One Piece](https://tryhackme.com/room/ctfonepiece65)
 
-# **Special Events:**
+- [TryHackMe | toc2](https://tryhackme.com/room/toc2)
+
+- [TryHackMe | NerdHerd](https://tryhackme.com/room/nerdherd)
+
+- [TryHackMe | Kubernetes Chall TDI 2020](https://tryhackme.com/room/kuberneteschalltdi2020)
+
+- [TryHackMe | The Server From Hell](https://tryhackme.com/room/theserverfromhell)
+
+- [TryHackMe | Jacob the Boss](https://tryhackme.com/room/jacobtheboss)
+
+- [TryHackMe | Unbaked Pie](https://tryhackme.com/room/unbakedpie)
+
+- [TryHackMe | Bookstore](https://tryhackme.com/room/bookstoreoc)
+
+- [TryHackMe | Overpass 3 - Hosting](https://tryhackme.com/room/overpass3hosting)
+
+- [TryHackMe | battery](https://tryhackme.com/room/battery)
+
+- [TryHackMe | Madeye&#39;s Castle](https://tryhackme.com/room/madeyescastle)
+
+- [TryHackMe | En-pass](https://tryhackme.com/room/enpass)
+
+- [TryHackMe | Sustah](https://tryhackme.com/room/sustah)
+
+- [TryHackMe | KaffeeSec - SoMeSINT](https://tryhackme.com/room/somesint)
+
+- [TryHackMe | Tokyo Ghoul](https://tryhackme.com/room/tokyoghoul666)
+
+- [TryHackMe | Watcher](https://tryhackme.com/room/watcher)
+
+- [TryHackMe | broker](https://tryhackme.com/room/broker)
+
+- [TryHackMe | Inferno](https://tryhackme.com/room/inferno)
+
+- [TryHackMe | VulnNet: dotpy](https://tryhackme.com/room/vulnnetdotpy)
+
+- [TryHackMe | Wekor](https://tryhackme.com/room/wekorra)
+
+- [TryHackMe | pyLon](https://tryhackme.com/room/pylonzf)
+
+- [TryHackMe | The Great Escape](https://tryhackme.com/room/thegreatescape)
+
+- [TryHackMe | SafeZone](https://tryhackme.com/room/safezone)
+
+- [TryHackMe | NahamStore](https://tryhackme.com/room/nahamstore)
+
+- [TryHackMe | Sweettooth Inc.](https://tryhackme.com/room/sweettoothinc)
+
+- [TryHackMe | CMSpit](https://tryhackme.com/room/cmspit)
+
+- [TryHackMe | Super-Spam](https://tryhackme.com/room/superspamr)
+
+- [TryHackMe | That&#39;s The Ticket](https://tryhackme.com/room/thatstheticket)
+
+- [TryHackMe | Debug](https://tryhackme.com/room/debug)
+
+- [TryHackMe | Red Stone One Carat](https://tryhackme.com/room/redstoneonecarat)
+
+- [TryHackMe | Cold VVars](https://tryhackme.com/room/coldvvars)
+
+- [TryHackMe | Metamorphosis](https://tryhackme.com/room/metamorphosis)
+
+- [TryHackMe | SQHell](https://tryhackme.com/room/sqhell)
+
+- [TryHackMe | Fortress](https://tryhackme.com/room/fortress)
+
+- [TryHackMe | CyberCrafted](https://tryhackme.com/room/cybercrafted)
+
+- [TryHackMe | Road](https://tryhackme.com/room/road)
+
+## Hard CTF
 
 ---
 
-368. [https://tryhackme.com/room/25daysofchristmas](https://tryhackme.com/room/25daysofchristmas)
+- [TryHackMe | Motunui](https://tryhackme.com/room/motunui)
 
-369. [https://tryhackme.com/room/learncyberin25days](https://tryhackme.com/room/learncyberin25days)
+- [TryHackMe | Spring](https://tryhackme.com/room/spring)
 
-370. [https://tryhackme.com/room/adventofcyber2](https://tryhackme.com/room/adventofcyber2)
+- [TryHackMe | Brainpan 1](https://tryhackme.com/room/brainpan)
 
-371. [https://tryhackme.com/room/adventofcyber3](https://tryhackme.com/room/adventofcyber3)
+- [TryHackMe | Borderlands](https://tryhackme.com/room/borderlands)
 
-372. [https://tryhackme.com/room/cyberweek2021](https://tryhackme.com/room/cyberweek2021)
+- [TryHackMe | hc0n Christmas CTF](https://tryhackme.com/room/hc0nchristmasctf)
 
-373. [https://tryhackme.com/room/hackerofthehill](https://tryhackme.com/room/hackerofthehill)
+- [TryHackMe | Daily Bugle](https://tryhackme.com/room/dailybugle)
 
-374. [https://tryhackme.com/room/tickets1](https://tryhackme.com/room/tickets1)
+- [TryHackMe | Retro](https://tryhackme.com/room/retro)
 
-375. [https://tryhackme.com/room/tickets2](https://tryhackme.com/room/tickets2)
+- [TryHackMe | Jeff](https://tryhackme.com/room/jeff)
+
+- [TryHackMe | Racetrack Bank](https://tryhackme.com/room/racetrackbank)
+
+- [TryHackMe | Dave&#39;s Blog](https://tryhackme.com/room/davesblog)
+
+- [TryHackMe | CherryBlossom](https://tryhackme.com/room/cherryblossom)
+
+- [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
+
+- [TryHackMe | Iron Corp](https://tryhackme.com/room/ironcorp)
+
+- [TryHackMe | Carpe Diem 1](https://tryhackme.com/room/carpediem1)
+
+- [TryHackMe | Ra](https://tryhackme.com/room/ra)
+
+- [TryHackMe | Year of the Fox](https://tryhackme.com/room/yotf)
+
+- [TryHackMe | For Business Reasons](https://tryhackme.com/room/forbusinessreasons)
+
+- [TryHackMe | Anonymous Playground](https://tryhackme.com/room/anonymousplayground)
+
+- [TryHackMe | Misguided Ghosts](https://tryhackme.com/room/misguidedghosts)
+
+- [TryHackMe | Theseus](https://tryhackme.com/room/theseus)
+
+- [TryHackMe | Internal](https://tryhackme.com/room/internal)
+
+- [TryHackMe | Year of the Dog](https://tryhackme.com/room/yearofthedog)
+
+- [TryHackMe | You&#39;re in a cave](https://tryhackme.com/room/inacave)
+
+- [TryHackMe | Year of the Owl](https://tryhackme.com/room/yearoftheowl)
+
+- [TryHackMe | Year of the Pig](https://tryhackme.com/room/yearofthepig)
+
+- [TryHackMe | envizon](https://tryhackme.com/room/envizon)
+
+- [TryHackMe | GameBuzz](https://tryhackme.com/room/gamebuzz)
+
+- [TryHackMe | Fusion Corp](https://tryhackme.com/room/fusioncorp)
+
+- [TryHackMe | Crocc Crew](https://tryhackme.com/room/crocccrew)
+
+- [TryHackMe | Uranium CTF](https://tryhackme.com/room/uranium)
+
+- [TryHackMe | Year of the Jellyfish](https://tryhackme.com/room/yearofthejellyfish)
+
+- [TryHackMe | Rocket](https://tryhackme.com/room/rocket)
+
+- [TryHackMe | Squid Game](https://tryhackme.com/room/squidgameroom)
+
+- [TryHackMe | EnterPrize](https://tryhackme.com/room/enterprize)
+
+- [TryHackMe | Different CTF](https://tryhackme.com/room/adana)
+
+- [TryHackMe | VulnNet: dotjar](https://tryhackme.com/room/vulnnetdotjar)
+
+- [TryHackMe | M4tr1x: Exit Denied](https://tryhackme.com/room/m4tr1xexitdenied)
+
+- [[TryHackMe | Shaker](https://tryhackme.com/room/shaker)
+
+## Misc
+
+---
+
+- [TryHackMe | Introduction to Django](https://tryhackme.com/room/django)
+
+- [TryHackMe | Git Happens](https://tryhackme.com/room/githappens)
+
+- [TryHackMe | Meltdown Explained](https://tryhackme.com/room/meltdownexplained)
+
+- [TryHackMe | Splunk](https://tryhackme.com/room/bpsplunk)
+
+- [TryHackMe | Linux Backdoors](https://tryhackme.com/room/linuxbackdoors)
+
+- [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
+
+- [TryHackMe | Geolocating Images](https://tryhackme.com/room/geolocatingimages)
+
+- [TryHackMe | Tor](https://tryhackme.com/room/torforbeginners)
+
+- [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
+
+- [TryHackMe | DLL HIJACKING](https://tryhackme.com/room/dllhijacking)
+
+- [TryHackMe | Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)
+
+- [TryHackMe | Attacking ICS Plant #1](https://tryhackme.com/room/attackingics1)
+
+- [TryHackMe | Attacking ICS Plant #2](https://tryhackme.com/room/attackingics2)
+
+- [TryHackMe | Printer Hacking 101](https://tryhackme.com/room/printerhacking101)
+
+- [TryHackMe | DNS Manipulation](https://tryhackme.com/room/dnsmanipulation)
+
+- [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
+
+- [TryHackMe | MITRE](https://tryhackme.com/room/mitre)
+
+- [TryHackMe | magician](https://tryhackme.com/room/magician)
+
+- [TryHackMe | JPGChat](https://tryhackme.com/room/jpgchat)
+
+- [TryHackMe | Baron Samedit](https://tryhackme.com/room/sudovulnssamedit)
+
+- [TryHackMe | CVE-2021-41773/42013](https://tryhackme.com/room/cve202141773)
+
+- [TryHackMe | Binary Heaven](https://tryhackme.com/room/binaryheaven)
+
+- [TryHackMe | Git and Crumpets](https://tryhackme.com/room/gitandcrumpets)
+
+- [TryHackMe | Polkit: CVE-2021-3560](https://tryhackme.com/room/polkit)
+
+- [TryHackMe | Hip Flask](https://tryhackme.com/room/hipflask)
+
+- [TryHackMe | Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions)
+
+- [TryHackMe | Wordpress: CVE-2021-29447](https://tryhackme.com/room/wordpresscve202129447)
+
+- [TryHackMe | Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)
+
+- [TryHackMe | REvil Corp](https://tryhackme.com/room/revilcorp)
+
+- [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+
+- [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+
+- [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
+
+- [TryHackMe | Conti](https://tryhackme.com/room/contiransomwarehgh)
+
+- [TryHackMe | Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
+
+- [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
+
+## Special Events
+
+---
+
+- [TryHackMe | 25 Days of Cyber Security](https://tryhackme.com/room/learncyberin25days)
+
+- [TryHackMe | Advent of Cyber 1 [2019]](https://tryhackme.com/room/25daysofchristmas)
+
+- [TryHackMe | Advent of Cyber 2 [2020]](https://tryhackme.com/room/adventofcyber2)
+
+- [TryHackMe | Advent of Cyber 3 (2021)](https://tryhackme.com/room/adventofcyber3)
+
+- [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
+
+- [TryHackMe | Cyber Scotland 2021](https://tryhackme.com/room/cyberweek2021)
+
+- [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
+
+- [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
+
+- [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
