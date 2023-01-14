@@ -14,9 +14,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 </aside>
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
-| ------------------------------------------------- |:---------------:| ------------------------- |
+| ------------------------------------------------- |:---------------:|:-------------------------:|
 | **[Introductory Rooms](#intro-rooms)**            | **10**          |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     | **5**           |                           |
+| **[Linux Fundamentals](#linux-fundamentals)**     | **5**           | **5**                     |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                           |
 | **[Basic Rooms](#basic-rooms)**                   | **9**           |                           |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
