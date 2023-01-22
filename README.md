@@ -7,9 +7,12 @@ Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hack
 
 All the rooms mentioned here are absolute free. ENJOY!!
 
-> ***For any suggestion feel free to reach me: [Al Arafat Tanin | rng70](https://github.com/rng70/)*** 
+## Maintainer
+> ***This repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/rng70/)*** 
 
-> **Table of Contents**
+<br/>
+
+## Table of Contents
 
 </aside>
 
@@ -18,7 +21,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Introductory Rooms](#intro-rooms)**            | **10**          |                           |
 | **[Linux Fundamentals](#linux-fundamentals)**     | **5**           | **5**                     |
 | **[Windows Fundamentals](#windows-fundamentals)** | **3**           |                           |
-| **[Basic Rooms](#basic-rooms)**                   | **9**           |                           |
+| **[Basic Rooms](#basics-rooms)**                   | **9**           |                           |
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
@@ -31,7 +34,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | **[Wifi Hacking](#wi-fi-hacking)**                | **1**           |                           |
 | **[Reverse Engineering](#reverse-engineering)**   | **11**          |                           |
 | **[Malware Analysis](#malware-analysis)**         | **7**           |                           |
-| **[Privilege Escalation](#prevesc)**              | **13**          |                           |
+| **[Privilege Escalation](#privesc)**              | **13**          |                           |
 | **[Windows](#windows)**                           | **7**           |                           |
 | **[Active Directory](#active-directory)**         | **5**           |                           |
 | **[PCAP Analysis](#pcap-analysis)**               | **4**           |                           |
