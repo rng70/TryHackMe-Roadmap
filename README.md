@@ -184,7 +184,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 * [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-* [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/rpmetasploit)
+* [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
 
 * [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
