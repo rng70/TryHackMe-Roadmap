@@ -82,10 +82,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
-
 ## Windows Fundamentals
 
 ---
@@ -159,8 +155,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 - [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
-
-- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
 
